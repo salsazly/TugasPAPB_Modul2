@@ -75,7 +75,7 @@ fun ProfilTugasTambahan() {
         )
         Spacer(modifier = Modifier.height(4.dp))
         Text(
-            text = "NIM: 24515020000000",
+            text = "NIM: 245150607111003",
             fontSize = 14.sp,
             fontWeight = FontWeight.Medium,
             color = Color(0xFF388E3C)
